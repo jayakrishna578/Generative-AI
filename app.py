@@ -8,7 +8,7 @@ from langchain.chains import LLMChain
 from langchain.callbacks import get_openai_callback
 from langchain.output_parsers import GuardrailsOutputParser
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = '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'
 
 chat_model = ChatOpenAI()
 
